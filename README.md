@@ -1,5 +1,5 @@
 Example Voting App 
-hello,world,nihaoa
+hello,world,nihao,xiaopengyou
 =========
 
 A simple distributed application running across multiple Docker containers.
